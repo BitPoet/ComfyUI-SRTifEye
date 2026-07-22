@@ -66,7 +66,7 @@ Scenes always cover the complete recording without gaps or overlaps. Internal cu
 
 ## License
 
-Licensed under GNU Affero Public License (GPL) v3 or any later version of that license.
+Licensed under GNU General Public License v3 or any later version of that license. See LICENSE for details.
 
 ## Credits
 
